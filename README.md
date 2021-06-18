@@ -37,5 +37,5 @@ In this section you will find the text to appear and disappear which has been an
     A map has been integrated using the google maps API which is pointing to the address of the company.
 
 ### Footer
-The social-icons and copyright text is animated using the scrollTrigger method that helps us create scroll-based animations
+The social-icons and copyright text is animated using the scrollTrigger method that helps us create scroll-based animations.
 
