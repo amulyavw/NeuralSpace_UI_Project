@@ -6,7 +6,8 @@ Integration of animation using gsap and anime.js along with HTML, CSS, and Javas
 * CSS
 * Bootstrap
 * Javascript
-
+## Usage
+Clone the repository and open index.html on your browser (preferrably Google Chrome).
 ## About the website
 1. Once you open the website, you will see an SVG logo created using Figma is animated using line drawing feature of anime.js
 2. The title and image of Hero section has been animated using gsap.from() method of gsap library.
