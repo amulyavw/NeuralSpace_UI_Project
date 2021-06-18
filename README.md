@@ -13,7 +13,7 @@ Clone the repository and open index.html on your browser (preferably Google Chro
 ### Header
 * Navbar
 
-    You will see a brand logo created using Figma which is animated using line drawing feature of anime.js
+    You will see a brand logo created using Figma which has been animated using line drawing feature of anime.js
 
 * Hero section
 
@@ -26,12 +26,12 @@ The icons in this section have been animated using the scrollTrigger method that
 The title (Testimonial) has been animated using SVG line drawing feature of anime.js and is set on an infinite loop.
 
 ### About Us
-In this section you will find the text to appear and disappear which is animated based on scrolling in and out of the view.
+In this section you will find the text to appear and disappear which has been animated based on scrolling in and out of the view.
 
 ### Contact
 * Contact details
 
-    The animation is created using gsap.from() method and scrollTrigger function of gsap library.
+    The animation has been created using gsap.from() method and scrollTrigger function of gsap library.
 * Google map
 
     A map has been integrated using the google maps API which is pointing to the address of the company.
