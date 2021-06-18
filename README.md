@@ -12,10 +12,12 @@ Clone the repository and open index.html on your browser (preferably Google Chro
 
 ### Header
 * Navbar
-You will see a brand logo created using Figma which is animated using line drawing feature of anime.js
+
+    You will see a brand logo created using Figma which is animated using line drawing feature of anime.js
 
 * Hero section
-The title and image of this section has been animated using gsap.from() method of gsap library.
+
+    The title and image of this section has been animated using gsap.from() method of gsap library.
 
 ### Features
 The icons in this section have been animated using the scrollTrigger method that helps us create scroll-based animations.
@@ -28,10 +30,12 @@ In this section you will find the text to appear and disappear which is animated
 
 ### Contact
 * Contact details
-The animation is created using gsap.from() method and scrollTrigger function of gsap library.
+
+    The animation is created using gsap.from() method and scrollTrigger function of gsap library.
 * Google map
-A map has been integrated using the google maps API which is pointing to the address of the company.
+
+    A map has been integrated using the google maps API which is pointing to the address of the company.
 
 ### Footer
-the social-icons and copyright is animated using the scrollTrigger method that helps us create scroll-based animations
+The social-icons and copyright text is animated using the scrollTrigger method that helps us create scroll-based animations
 
